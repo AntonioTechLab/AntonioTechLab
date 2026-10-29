@@ -1,8 +1,8 @@
- <div align="center">
+<div align="center">
 
 # 👋 Olá, eu sou Antonio!
 
-### 💻 Technology | Software Development | Information Security | Artificial Intelligence
+### 💻 Tecnologia | Desenvolvimento de Software | Segurança da Informação | Inteligência Artificial
 
 *Entendendo tecnologias, desenvolvendo aplicações e aprendendo continuamente...* 
 
@@ -24,7 +24,7 @@ Atualmente, curso Tecnologia da Informação e especialização em Inteligência
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,js,php,html,css,git,github,arduino&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,js,php,html,css,git,github,arduino,unity&perline=6)](https://skillicons.dev)
 
 </div>
 
@@ -66,6 +66,6 @@ Atualmente, curso Tecnologia da Informação e especialização em Inteligência
 
 ### Aprender sempre! Desenvolvendo e evoluindo.
 
-*Building knowledge, creating solutions.*
+*Construindo conhecimento, criando soluções.*
 
 </div>
