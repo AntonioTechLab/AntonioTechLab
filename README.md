@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Olá, eu sou Antonio!
 
-<!--
-**AntonioTechLab/AntonioTechLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Technology | Software Development | Information Security | Artificial Intelligence
 
-Here are some ideas to get you started:
+Sou profissional de Tecnologia da Informação com formação multidisciplinar e interesse em desenvolvimento de software, segurança da informação, automação e inteligência artificial.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Minha trajetória reúne conhecimentos em programação, desenvolvimento web e desktop, automação industrial e microcontroladores. Também possuo experiência com suporte técnico, manutenção de sistemas e desenvolvimento de funcionalidades.
+
+Atualmente, curso Tecnologia da Informação e especialização em Inteligência Artificial, buscando ampliar meus conhecimentos e desenvolver soluções tecnológicas.
+
+---
+
+### 🛠️ Tecnologias e ferramentas
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,js,php,html,css,git,github,arduino&perline=6)](https://skillicons.dev)
+
+### 🎯 Áreas de interesse
+
+- 💻 Desenvolvimento de Software
+- 🤖 Inteligência Artificial
+- 🔐 Segurança da Informação
+- ⚙️ Automação Industrial
+- 🔌 Sistemas Embarcados
+
+### 🎓 Formação
+
+- Tecnologia da Informação — UNIVESP (em andamento)
+- Inteligência Artificial — Especialização (em andamento)
+- Segurança da Informação — MBA
+- Desenvolvimento de Sistemas — Técnico
+- Automação Industrial — Técnico
+
+---
+
+### 📌 Objetivo
+
+Compartilhar projetos, documentar aprendizados, explorar novas tecnologias e desenvolver soluções que unam programação, inovação e conhecimento.
+
+---
+
+<p align="center">
+  <i>Building, learning and exploring technology.</i> 🚀
+</p>
