@@ -4,7 +4,7 @@
 
 ### 💻 Technology | Software Development | Information Security | Artificial Intelligence
 
-*Explorando tecnologias, desenvolvendo soluções e aprendendo continuamente.* 🚀
+*Entendendo tecnologias, desenvolvendo aplicações e aprendendo continuamente...* 
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou profissional de Tecnologia da Informação com formação multidisciplinar e interesse em desenvolvimento de software, segurança da informação, automação e inteligência artificial.
+Gosto da área de Tecnologia da Informação, tenho formação multidisciplinar e interesse em desenvolvimento de software, segurança da informação, automação e inteligência artificial.
 
 Minha trajetória reúne conhecimentos em programação, desenvolvimento Web e Desktop, automação industrial e microcontroladores. Também possuo experiência com suporte técnico, manutenção de sistemas e desenvolvimento de funcionalidades.
 
@@ -64,7 +64,7 @@ Atualmente, curso Tecnologia da Informação e especialização em Inteligência
 
 <div align="center">
 
-### 🚀 Sempre aprendendo, desenvolvendo e evoluindo.
+### Aprender sempre! Desenvolvendo e evoluindo.
 
 *Building knowledge, creating solutions.*
 
