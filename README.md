@@ -16,7 +16,7 @@ Gosto da área de Tecnologia da Informação, tenho formação multidisciplinar 
 
 Minha trajetória reúne conhecimentos em programação, desenvolvimento Web e Desktop, automação industrial e microcontroladores. Também possuo experiência com suporte técnico, manutenção de sistemas e desenvolvimento de funcionalidades.
 
-Atualmente, curso Tecnologia da Informação, buscando aprofundar meus conhecimentos e desenvolver soluções tecnológicas inovadoras.
+Atualmente, curso Engenharia da Computação, buscando aprofundar meus conhecimentos e desenvolver soluções tecnológicas inovadoras.
 
 ---
 
@@ -52,7 +52,7 @@ Atualmente, curso Tecnologia da Informação, buscando aprofundar meus conhecime
 
 | Formação |
 |:---:|
-| 🎓 Tecnologia da Informação — Bacharelado |
+| 🎓 Engenharia da Computação — Bacharelado |
 | 💻 Análise e Desenvolvimento de Sistemas — Tecnólogo |
 | 🤖 Inteligência Artificial — Especialização |
 | 🔐 Segurança de Redes e Computadores — Especialização |
