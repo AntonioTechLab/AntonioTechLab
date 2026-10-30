@@ -4,7 +4,7 @@
 
 ### 💻 Tecnologia | Desenvolvimento de Software | Segurança da Informação | Inteligência Artificial
 
-*Entendendo tecnologias, desenvolvendo aplicações e aprendendo continuamente...* 
+*Entendendo tecnologias, desenvolvendo aplicações e aprendendo continuamente...*
 
 </div>
 
@@ -53,10 +53,13 @@ Atualmente, curso Tecnologia da Informação e especialização em Inteligência
 | Formação |
 |:---:|
 | 🎓 Tecnologia da Informação — Bacharelado |
+| 💻 Análise e Desenvolvimento de Sistemas — Tecnólogo |
 | 🤖 Inteligência Artificial — Especialização |
-| 🔐 Segurança da Informação — MBA |
+| 🔐 Segurança de Redes e Computadores — Especialização |
+| 🛡️ Segurança da Informação — MBA |
 | 💻 Desenvolvimento de Sistemas — Técnico |
 | ⚙️ Automação Industrial — Técnico |
+| 🔬 Física — Licenciatura (formação não concluída) |
 
 </div>
 
