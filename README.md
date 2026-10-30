@@ -20,7 +20,7 @@ Atualmente, curso Tecnologia da Informação e especialização em Inteligência
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Stack Tecnológica
 
 <div align="center">
 
