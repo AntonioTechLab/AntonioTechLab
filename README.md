@@ -59,7 +59,6 @@ Atualmente, curso Tecnologia da Informação e especialização em Inteligência
 | 🛡️ Segurança da Informação — MBA |
 | 💻 Desenvolvimento de Sistemas — Técnico |
 | ⚙️ Automação Industrial — Técnico |
-| 🔬 Física — Licenciatura (formação não concluída) |
 
 </div>
 
